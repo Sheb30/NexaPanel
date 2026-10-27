@@ -2,6 +2,15 @@
 
 A modern, responsive admin dashboard built with React and Vite. NexaPanel provides a clean interface for managing orders, customers, analytics, and application settings.
 
+<img width="1920" height="2174" alt="Dashboard" src="https://github.com/user-attachments/assets/e9728d54-def5-494b-82e2-e26054ff5fa6" />
+
+
+<img width="1920" height="1114" alt="Orders" src="https://github.com/user-attachments/assets/c50b04a7-8670-41c4-8fe8-83cece0f761f" />
+
+
+<img width="1920" height="1309" alt="Analytics" src="https://github.com/user-attachments/assets/8558475e-9c08-468b-9060-b091d550539f" />
+
+
 ## Features
 
 - **Dashboard:** Overview of key metrics and business activity.
