@@ -26,15 +26,33 @@ A modern, responsive admin dashboard built with React and Vite. NexaPanel provid
 - **Optimized Loading:** Lazy-load pages to reduce the initial JavaScript bundle.
 - **Client-side Routing:** Navigate between dashboard pages without full page reloads.
 
+
 ## Tech Stack
 
-- React
-- Vite
-- React Router
-- Recharts
-- JavaScript
-- CSS
-- ESLint
+<p align="left">
+  <a href="https://react.dev/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+  </a>
+  <a href="https://vite.dev/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" alt="Vite" />
+  </a>
+  <a href="https://reactrouter.com/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=reactrouter&logoColor=white" alt="React Router" />
+  </a>
+  <a href="https://recharts.org/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/Recharts-22B5BF?style=for-the-badge&logo=chartdotjs&logoColor=white" alt="Recharts" />
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/CSS-663399?style=for-the-badge&logo=css&logoColor=white" alt="CSS" />
+  </a>
+  <a href="https://eslint.org/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/ESLint-4B32C3?style=for-the-badge&logo=eslint&logoColor=white" alt="ESLint" />
+  </a>
+</p>
+
 
 ## Getting Started
 
